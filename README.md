@@ -1,6 +1,10 @@
 # Facial Recognition and Object Detection for Dynamic Datasets
 This repository contains the code for my capstone project, which focuses on developing and training models for both facial recognition and object recognition. The project involves building machine learning pipelines for detecting and recognizing faces, as well as identifying various objects in images using state-of-the-art algorithms.
 
+# Project Members:
+- Efaz Hossain
+- Sahithi Mutyala
+
 # Table of Contents
 - Project Overview
 - Technologies Used
