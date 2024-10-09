@@ -8,7 +8,6 @@ This repository contains the code for my capstone project, which focuses on deve
 # Table of Contents
 - Project Overview
 - Technologies Used
-- Dataset
 - Model Architecture
 - Results
 
@@ -25,11 +24,6 @@ The model is built using deep learning techniques and trained on various dataset
 - Scikit-learn: For traditional machine learning algorithms and evaluation
 - NumPy & Pandas: For data handling and analysis
 - Matplotlib & Seaborn: For visualization of results
-
-# Dataset
-The datasets used for training the models include:
-- Facial Recognition: [Link added soon]
-- Object Recognition: [Link added soon]
 
 # Model Architecture
 ## Facial Recognition Model
